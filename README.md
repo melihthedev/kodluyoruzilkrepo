@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Patika.dev] (https://www.patika.dev/) Front-End Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası ve bir adet index.html dosyası bulunuyor.
+Bu repo [Patika.dev](https://www.patika.dev/) Front-End Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası ve bir adet index.html dosyası bulunuyor.
 
 # Installation
 
@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, önce lütfen neyi 
 
 # Licence
 
-[MIT] (https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)

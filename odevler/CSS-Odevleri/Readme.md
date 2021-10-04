@@ -1,5 +1,5 @@
-#CSS Odevleri
+# CSS Odevleri
 
 ---------
 
-Bu klasor css odevlerini yuklemek amaciyla olusturulmustur.
+Bu klasor CSS odevlerini yuklemek amaciyla olusturulmustur.

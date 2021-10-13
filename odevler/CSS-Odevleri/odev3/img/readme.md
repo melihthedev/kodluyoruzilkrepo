@@ -1,1 +1,1 @@
-#Google Clone İçin Kaynak Resimleri
+# Google Clone İçin Kaynak Resimleri

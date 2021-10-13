@@ -1,0 +1,138 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+#nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color:  #5f6368;
+}
+
+li:hover {
+  text-decoration: underline;
+}
+
+li {
+  margin-right: 25px;
+  margin-left: 10px;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sign-in {
+  font-size: 12px;
+  background: #4387fd;
+  border: 1px solid #4285f4;
+  color: white;
+  padding: 6px 10px;
+  font-weight: bold;
+  outline: none;
+}
+
+#nav-list1, #nav-list2, #foot-list1, #foot-list2{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#dot-icon {
+  width: 20px;
+}
+
+#search-section {
+  text-align: center;
+  height: 80vh;
+}
+
+#google {
+  width: 272px;
+  padding-top: 160px;
+  padding-bottom: 30px;
+}
+
+#search-text {
+  display: block;
+  font-size: 20px;
+  width: 500px;
+  height: 40px;
+  border: none;
+  margin: auto;
+  outline: none;
+  border-radius: 10px;
+}
+
+.search-area {
+  width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  border: 1px solid #dfe1e5;
+  border-radius: 30px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.search-area:hover {
+  box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+  border-color: rgba(223,225,229,0);
+}
+
+.btn {
+  border: 1px solid #f2f2f2;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  background: #f8f8f8;
+  border-radius: 4px;
+  color: #5f6368;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  height: 36px;
+  margin: 11px 4px;
+  padding: 0 16px;  
+}
+
+.btn:hover {
+  border: 1px solid #c6c6c6;
+  color: black;
+}
+
+svg {
+  width: 20px;
+}
+
+.icon-mic {
+  width: 15px;
+}
+
+footer {
+  background: #f2f2f2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-bottom: 0;
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+}
